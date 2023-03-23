@@ -1,0 +1,1 @@
+En este caso el programa jamás acabaría, y entonces nos quedaríamos en un bucle infinito, dado que p siempre solicita a p, es por ello que el programa no terminaría.
